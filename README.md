@@ -62,7 +62,7 @@ The best entries will be showcased, promoted and used by people who have been in
 ###Requirements
 
 
-- You can build either a mobile or a web application. There are no restrictions on the platform you can build. All we care about that whatever you build has the potential to have mass appeal.
+- You can build either a mobile or a web application. There are no restrictions on the platform you can build. All we care about is that whatever you build works, is easy to use and has the potential to have mass appeal.
 
 The primary functional requirements for the app include
 - **Planning a spot fix** | Any person who is interested to do a spot fix should be able to upload a photo, location and description of the spot along with a planned date she or he intends to fix it on.
