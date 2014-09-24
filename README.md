@@ -49,7 +49,7 @@ We need you to complete your application and submit it by 11:00 PM on 1st Octobe
 
 ###What do you get out of this?
 
-<Some text>. You can create an application that can inspire an entire generation of Indians to see the change they want to be. 
+You can create an application that can inspire an entire generation of Indians to *see the change they want to be*. 
 
 The best entries will be showcased, promoted and used by people who have been inspired by 'The Ugly Indian'
 
