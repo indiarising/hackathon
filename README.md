@@ -1,12 +1,16 @@
 The Challenge
 ==============
 
-<A brief on the challenge>
+Inspired by [The Ugly Indian](theuglyindian.com) and the [community](https://www.facebook.com/theugl.yindian) who have been transforming public spaces in the country over the past few years, create a software application that empowers people to take charge and solve problems in their neighborhood.
+
 
 ###Why?
 
 
-India is country of ...
+"I beg every citizen of the country to pledge 100 hours a year towards cleanliness. This work cannot be done by the PM, CMs or ministers alone. Every citizen of the nation has to pledge to keep the country clean" - Prime Minister Narendra Modi on 24th Spe 2014
+
+If you have been following work inspired by [The Ugly Indian](https://www.facebook.com/theugl.yindian) on facebook, you will see that it takes only a few people to go out and bring about a change. 
+
 
 
 ###What?
@@ -14,7 +18,16 @@ India is country of ...
 
 ![PM's message to dedicate 2 hours per week to spotfixing](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/r90/10623637_758609274198330_1043844814865936707_o.jpg?dl=1)
 
-In short do a spot fix - A spot fix is a ..
+In short do a spot fix - A spot fix is transforming a public space by solving the basic underlying problems
+
+![An example of spotfix](http://33.media.tumblr.com/7ca066c821c7ef7ca41a1154fb072405/tumblr_n7w439SmZN1tw6339o1_1280.jpg)
+
+
+The photos [here](http://theuglyindian.tumblr.com/) and this [Reddit AMA](http://www.reddit.com/r/india/comments/1z2nq0/meet_the_ugly_indians_really_they_are_not_ugly/) cover most questions you will have about this approach and proactive style of working. 
+
+There is even a book on this [here](http://theuglyindian.com/books/)
+
+
 
 ###How?
 
@@ -44,10 +57,6 @@ The best entries will be showcased, promoted and used by people who have been in
 
 - You will have to email indiarisingtech@gmail.com with a link to the working version of your application along with brief details on how to use it and some screenshots.
  
-
-
-
-
 
 ###Requirements
 -
