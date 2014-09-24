@@ -23,7 +23,7 @@ In short do a spot fix - A spotfix is transforming a public space by solving the
 ![An example of spotfix](http://33.media.tumblr.com/7ca066c821c7ef7ca41a1154fb072405/tumblr_n7w439SmZN1tw6339o1_1280.jpg)
 
 
-The photos [here](http://theuglyindian.tumblr.com/) and this [Reddit AMA](http://www.reddit.com/r/india/comments/1z2nq0/meet_the_ugly_indians_really_they_are_not_ugly/) cover most questions you will have about this approach and proactive style of working. 
+The photos [here](http://theuglyindian.tumblr.com/) and this [Reddit AMA](http://www.reddit.com/r/india/comments/24uw33/hi_rindia_i_am_anamik_nagrik_an_ugly_indian_ama_r/?sort=top) cover most questions you will have about this approach and proactive style of working. 
 
 There is even a book on this [here](http://theuglyindian.com/books/)
 
