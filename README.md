@@ -68,7 +68,7 @@ The primary functional requirements for the app include
 - **Planning a spot fix** | Any person who is interested to do a spot fix should be able to upload a photo, location and description of the spot along with a planned date she or he intends to fix it on.
 - **Joining a spot fix** | Any person should be able to browse through planned spot fixes in their vicinity and be able to join the spotfix and share the fix across social media.
 - **Reporting a spot fix** | Any person should be able to report a spot fix after it has been completed. The user should be able to upload a before/after picture, a geotagged location, a date and a description of the fix.
-- **Map based dashboard ** | The primary interface should be map based that shows spots that are available for a fix and spots that have been fixed. The dashboard should let users navigate to each of the spots and browse the details. The dashboard should also report metrics like - Total number of hours volunteered, total number of spot fixes and other interesting aggregated metrics.
+- **Map based dashboard** | The primary interface should be map based that shows spots that are available for a fix and spots that have been fixed. The dashboard should let users navigate to each of the spots and browse the details. The dashboard should also report metrics like - Total number of hours volunteered, total number of spot fixes and other interesting aggregated metrics.
 
 
 ### For any questions email *indiarisingtech@gmail.com* 
