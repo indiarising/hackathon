@@ -6,8 +6,8 @@ Inspired by [The Ugly Indian](theuglyindian.com) and the [community](https://www
 
 ###Why?
 
-
-"I beg every citizen of the country to pledge 100 hours a year towards cleanliness. This work cannot be done by the PM, CMs or ministers alone. Every citizen of the nation has to pledge to keep the country clean" - Prime Minister Narendra Modi on 24th Spe 2014
+ 
+> "I beg every citizen of the country to pledge 100 hours a year towards cleanliness. This work cannot be done by the PM, CMs or ministers alone. Every citizen of the nation has to pledge to keep the country clean" - Prime Minister Narendra Modi on 24th Sep 2014
 
 If you have been following work inspired by [The Ugly Indian](https://www.facebook.com/theugl.yindian) on facebook, you will see that it takes only a few people to go out and bring about a change. 
 
@@ -56,15 +56,22 @@ The best entries will be showcased, promoted and used by people who have been in
 ###Submission
 
 - You will have to email indiarisingtech@gmail.com with a link to the working version of your application along with brief details on how to use it and some screenshots.
+- If you have your code on github, submit a pull request to this repository.
  
 
 ###Requirements
--
+
 
 - You can build either a mobile or a web application. There are no restrictions on the platform you can build. All we care about that whatever you build has the potential to have mass appeal.
 
 The primary functional requirements for the app include
-- Planning a spot fix | Any person who is interested to do a spot fix should be able to upload a photo, location and description of the spot along with a planned date she or he intends to fix it on.
-- Joining a spot fix | Any person should be able to browse through planned spot fixes in their vicinity and be able to join the spotfix and share the fix across social media.
-- Reporting a spot fix | Any person should be able to report a spot fix after it has been completed. The user should be able to upload a before/after picture, a geotagged location, a date and a description of the fix.
-- The primary interface should be map based that shows spots that are available for a fix and spots that have been fixed. The dashboard should let users navigate to each of the spots and browse the details. The dashboard should also report metrics like - Total number of hours volunteered, total number of spot fixes and other interesting aggregated metrics.
+- **Planning a spot fix** | Any person who is interested to do a spot fix should be able to upload a photo, location and description of the spot along with a planned date she or he intends to fix it on.
+- **Joining a spot fix** | Any person should be able to browse through planned spot fixes in their vicinity and be able to join the spotfix and share the fix across social media.
+- **Reporting a spot fix** | Any person should be able to report a spot fix after it has been completed. The user should be able to upload a before/after picture, a geotagged location, a date and a description of the fix.
+- **Map based dashboard ** | The primary interface should be map based that shows spots that are available for a fix and spots that have been fixed. The dashboard should let users navigate to each of the spots and browse the details. The dashboard should also report metrics like - Total number of hours volunteered, total number of spot fixes and other interesting aggregated metrics.
+
+
+### For any questions email *indiarisingtech@gmail.com* 
+
+
+
