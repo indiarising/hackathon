@@ -18,7 +18,7 @@ If you have been following work inspired by [The Ugly Indian](https://www.facebo
 
 ![PM's message to dedicate 2 hours per week to spotfixing](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/r90/10623637_758609274198330_1043844814865936707_o.jpg?dl=1)
 
-In short do a spot fix - A spot fix is transforming a public space by solving the basic underlying problems
+In short do a spot fix - A spotfix is transforming a public space by solving the basic underlying problems
 
 ![An example of spotfix](http://33.media.tumblr.com/7ca066c821c7ef7ca41a1154fb072405/tumblr_n7w439SmZN1tw6339o1_1280.jpg)
 
