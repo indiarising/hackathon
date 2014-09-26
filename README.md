@@ -1,7 +1,7 @@
 The Challenge - Clean India
 ============================
 
-Inspired by [The Ugly Indian](theuglyindian.com) and the [community](https://www.facebook.com/theugl.yindian) who have been transforming public spaces in the country over the past few years, create a software application that empowers people to take charge and solve problems in their neighborhood.
+Inspired by [The Ugly Indian](http://theuglyindian.com) and the [community](https://www.facebook.com/theugl.yindian) who have been transforming public spaces in the country over the past few years, create a software application that empowers people to take charge and solve problems in their neighborhood.
 
 
 ###Why?
