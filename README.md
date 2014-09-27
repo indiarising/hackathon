@@ -93,6 +93,11 @@ Having a github page lets us easily share your work with the community. Submitti
 
 As mentioned earlier, focus on what you do best. If you are a design agency willing to build design concepts around the UI/UX flows or assets (logos/banners/iconography/typography) we could use in the future, go ahead and build it. The submission process remains the same. Creating a github page and submitting a pull request is not very hard. Drop us a mail if you get stuck.
 
+
+- **I don't have the necessary skills to finish everything and would know if there is a way to find a team**
+
+We do not currently have a process to form team. We would like you to find someone know and try to build things. It is perfectly okay to build only the part you are good at. You can also send us an email and we could maybe figure out something.
+
 - **What if I am interested but can't do anything this time or before the 1st Oct deadline?**
  
 Create a github page and send it as a pull request telling us about how you can build this and write a bit about how you can contribute. That way we know you are serious about this. Send it as a pull request and we will keep you in the loop in the future. Also send us an email.
