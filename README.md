@@ -79,6 +79,11 @@ The primary functional requirements for the app include
 
 We understand that the time period might not be sufficient to complete the entire project. We would like a functional prototype with the possibility of extension. It should be usable. We recommend you build upon the skills you have. If you are a designer, build the aspects your are familiar wih first (Screen mockups, UI/UX flows). If you are developer, write things that work while providing a usable UI. We want to use whatever you make and build on it in the future by contribution from the community. So don't let the enormity of the task let you down. Just do and submit your best.
 
+- **What kind of submissions have people been sending you?**
+
+We have had one person sending us an API built in `nodejs` that could be used by any application developer to build the frontend of their application. [Here is the pull request he sent](https://github.com/indiarising/hackathon/pull/1). We had someone else contributing to the existing documentation. We have had people working end to end on finishing a working prototype of the application. We have had people sending in some tools they have built that could be used for this project. We have had designers and agencies sending in mockups and UX flows. And several other things. As you can see, people are doing whatever they are best at while trying to achieve the goal of the hackathon. We intend to use the things learnt from this process for a more long term project that will involve you and your work. 
+
+
 
 - **Why do we have to create a github page and submit a pull request?**
 
