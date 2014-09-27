@@ -74,7 +74,7 @@ The primary functional requirements for the app include
 
 ###Frequently Asked Questions
 
-- **Do I need submit a completele application?**
+- **Do I need submit a complete application?**
 
 
 We understand that the time period might not be sufficient to complete the entire project. We would like a functional prototype with the possibility of extension. It should be usable. We recommend you build upon the skills you have. If you are a designer, build the aspects your are familiar wih first (Screen mockups, UI/UX flows). If you are developer, write things that work while providing a usable UI. We want to use whatever you make and build on it in the future by contribution from the community. So don't let the enormity of the task let you down. Just do and submit your best.
