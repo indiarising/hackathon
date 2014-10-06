@@ -1,24 +1,13 @@
 Submissions
 ============
 
+- IndiaRising by **Pranav Prakash**
 
-- Saaf by **Swathi Selvavinayakam** and **Prabesh Devkota**
+	[Live Link](http://indiarising.herokuapp.com/)
 
-	[Live Link](https://drive.google.com/file/d/0B11oWo0dZCicMmx5WTNVQlQxdkh6YmVlY2pKNVpVV1NDQmMw/view?usp=sharing)
-
-	[Document describing how this works and screenshots](https://drive.google.com/file/d/0B11oWo0dZCicMmx5WTNVQlQxdkh6YmVlY2pKNVpVV1NDQmMw/view?usp=sharing) 
-
+	[Source Code](https://github.com/indiarising/hackathon/pull/6)
 
 
-
-
-- Clean My India by **Tajinder Pal Singh**
-
-  [Live Link](http://www.tajinderpalsingh.com/)
-  
-  [Slides describing how this works](http://tajinderpalsingh.com/how-it-works)
-
-	[Source Code](https://github.com/indiarising/hackathon/pull/4/)
 
 
 - Spotfix Prototype by **Ayush Choubey**
@@ -29,11 +18,6 @@ Submissions
 	
 	[Source Code](https://github.com/indiarising/hackathon/pull/5) 
 
-- IndiaRising by **Pranav Prakash**
-
-	[Live Link](http://indiarising.herokuapp.com/)
-
-	[Source Code](https://github.com/indiarising/hackathon/pull/6)
 
 
 - Ugly Indian by **Raison D'Souza**, **Kenneth D'Souza** and **Karthik Kastury**
@@ -43,16 +27,16 @@ Submissions
 	[Documentation and Screenshots](https://docs.google.com/document/d/1CMijsT0jvQ3MTj3Oo1N-286ntLrBfgBSRqtcnQDmPnY/edit?usp=sharing)
 
 	[Source Code](https://github.com/rdsoze/uglyindian/)
- 
-- Ugly Indian inspired Android app by **Sudhakar Rayavaram** along with **Ajit Singh**, **Saravannan P S**, **Rajeswari Krishnakumar**, **Sriram Subramanian** and **Praveen Janakarajan** (All from **Thoughtworks**) 
+	
 
-	[Link to Download Android App](https://drive.google.com/file/d/0B11oWo0dZCicQWpfZmJtRDlrVkZXci1OeTgtRkN0NHNWNWRV/view?usp=sharing)
 
-	[Screenshot 1](https://drive.google.com/file/d/0B11oWo0dZCicMHBGdUsydWIzTTB3V1R1bndBaE1PSHZ6bmdZ/view?usp=sharing), [Screenshot 2](https://drive.google.com/file/d/0B11oWo0dZCicVFYwVmdhaGtGOUlOb2FnOGQ1MGx5c05YQThr/view?usp=sharing), [Screenshot 3](https://drive.google.com/file/d/0B11oWo0dZCicN3kteE5JdEcwWDVBNi1NRGhlRkd5WUxhaU9R/view?usp=sharing)
+- Clean My India by **Tajinder Pal Singh**
 
-	[Source Code for App](https://github.com/pssaravanan/uglyindians),
-	[Source Code for Backend](https://github.com/pssaravanan/uglyindians_service)
+  [Live Link](http://www.tajinderpalsingh.com/)
+  
+  [Slides describing how this works](http://tajinderpalsingh.com/how-it-works)
 
+	[Source Code](https://github.com/indiarising/hackathon/pull/4/)
 
 
 - Spotfix by **Nishant Shobhit, Bangalore** and **Richeek A, Santa Clara**
@@ -74,6 +58,29 @@ Submissions
 
 	[Link to documentation explaining the app](https://drive.google.com/file/d/0B11oWo0dZCiccnlZaHhSQkdiN0VHUzhkTGlWb1lHSl9zVkpJ/view?usp=sharing)
 
+
+
+
+- Saaf by **Swathi Selvavinayakam** and **Prabesh Devkota**
+
+	[Live Link](http://saaf.meteor.com/)
+
+	[Document describing how this works and screenshots](https://drive.google.com/file/d/0B11oWo0dZCicMmx5WTNVQlQxdkh6YmVlY2pKNVpVV1NDQmMw/view?usp=sharing) 
+
+
+
+ 
+- Ugly Indian inspired Android app by **Sudhakar Rayavaram** along with **Ajit Singh**, **Saravannan P S**, **Rajeswari Krishnakumar**, **Sriram Subramanian** and **Praveen Janakarajan** (All from **Thoughtworks**) 
+
+	[Link to Download Android App](https://drive.google.com/file/d/0B11oWo0dZCicQWpfZmJtRDlrVkZXci1OeTgtRkN0NHNWNWRV/view?usp=sharing)
+
+	[Screenshot 1](https://drive.google.com/file/d/0B11oWo0dZCicMHBGdUsydWIzTTB3V1R1bndBaE1PSHZ6bmdZ/view?usp=sharing), [Screenshot 2](https://drive.google.com/file/d/0B11oWo0dZCicVFYwVmdhaGtGOUlOb2FnOGQ1MGx5c05YQThr/view?usp=sharing), [Screenshot 3](https://drive.google.com/file/d/0B11oWo0dZCicN3kteE5JdEcwWDVBNi1NRGhlRkd5WUxhaU9R/view?usp=sharing)
+
+	[Source Code for App](https://github.com/pssaravanan/uglyindians),
+	[Source Code for Backend](https://github.com/pssaravanan/uglyindians_service)
+
+
+
 	
 - KaamChalu by **Kapil Pendse**
 
@@ -81,17 +88,22 @@ Submissions
 
 	[Source Code](https://github.com/indiarising/hackathon/pull/10)
 
+
+
 - Clean Place by **Karthikeyan S** from **lostinkaos.com**
 
 	[Live Link](http://128.199.207.159/)
 	
 	[Source Code](https://github.com/indiarising/hackathon/pull/11)
 
+
 - Clean India Hackathon app by **Krishna Kshatriya**
 
 	[Live Link to Download Mobile App](https://drive.google.com/file/d/0B11oWo0dZCicQ3V2b3Y4OVVPTk51SDF1U1FMMl9yU25jbGsw/view?usp=sharing)
 
 	[Screenshot 1](https://drive.google.com/file/d/0B11oWo0dZCicWC14NXoxcUpBZFJ6ZFBrQ0NxYU5wb05NYzI4/view?usp=sharing), [Screenshot 2](https://drive.google.com/file/d/0B11oWo0dZCiceldMbEM0RTdHQXF4WDRwQ3VJSEJ3VE5qWTZr/view?usp=sharing), [Screenshot 3](https://drive.google.com/file/d/0B11oWo0dZCicVW0xQzNvTTdQcFJ4VEdpTnowSm4ybml2NHFz/view?usp=sharing), [Screenshot 4](https://drive.google.com/file/d/0B11oWo0dZCicenlLR3Z4NW05WHhibVhUSTEyNGcxTGxLcWZN/view?usp=sharing), [Screenshot 5](https://drive.google.com/file/d/0B11oWo0dZCicS0RvQWo5eWYtdG9nOS1CRllSV3ZjMWFIOENz/view?usp=sharing)
+
+
 
 - Spotfix - the Logical Indian by **Varun Subramanian**
 
