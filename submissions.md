@@ -30,7 +30,7 @@ Submissions
 	
 
 
-- Clean My India by **Tajinder Pal Singh**
+- Clean My India by **Tajinder Pal Singh** from **Codebibber**
 
   [Live Link](http://www.tajinderpalsingh.com/)
   
@@ -81,6 +81,14 @@ Submissions
 
 
 
+- The Ugly Indian Project by **Prashant Abhishek** from **Jaaga**
+
+	[Android flow can be seen here](https://popapp.in/projects/542c3ae76b208e6469aed461/preview)
+	
+	[Web app UI flow here](http://prank7.github.io/theuglyindian-html/)
+
+
+
 	
 - KaamChalu by **Kapil Pendse**
 
@@ -95,6 +103,8 @@ Submissions
 	[Live Link](http://128.199.207.159/)
 	
 	[Source Code](https://github.com/indiarising/hackathon/pull/11)
+	
+
 
 
 - Clean India Hackathon app by **Krishna Kshatriya**
