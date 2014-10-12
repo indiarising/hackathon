@@ -184,3 +184,13 @@ Submissions
 
 	[Link to presentation](https://drive.google.com/file/d/0B11oWo0dZCicankxN2tjV2c1enQ4RzRmeTRVMkoxMnpnV1RN/view?usp=sharing)
 
+
+What Next?
+==========
+
+When we started this hackathon we were contemplating whether technology could be used to proactively push people to do more spotfixes by standadizing the process for planning, executing and reporting a spotfix along with creating a platform for people willing to contribute their time to find local spotfixing events. The submissions have exceeded our expectations in terms of what can be built. The logical next step is to use what has been built to plan and execute some spotfixes. Ideally we would like to consolidate and build one single platform that enables this. In this process, we had connected some of the top participants and designers and they have come up with a [group](https://groups.google.com/forum/#!forum/tui-hackers) that you could join and take this process further. We would be happy to support your spotfixing activity but it is up to you to go out there and try out these technologies in the field.
+
+We received close to 100 expressions of interests and about 25 submissions as complete running applications or designs that we think are useful work for anyone to base their future work on. We would like to thank each and everyone for putting in their time to this project. We hope you found this process useful and that you would make something useful out of this in the near future.
+
+There is clearly a supply-demand problem as far as spotfixes are concerned. There is no shortage of ugly public spaces around us, that's the supply. However there is a shortage of people who would actually go out and fix those problems. Building a reporting platform by itself does not solve the problem unless we can inspire people to go out there, take charge and proactively fix things. Platforms like [Watsi](https://watsi.org/), [Rang De](http://www.rangde.org/), [Milaap](https://milaap.org/), [Kickstarter](https://www.kickstarter.com), etc. have all successfully used technology to crowdsource resources (time/money/expertise) to solve problems. Can the same be done to spotfixing?
+
