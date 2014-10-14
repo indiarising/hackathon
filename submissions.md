@@ -186,7 +186,7 @@ Top Submissions
 
 
 
-- Clean India by **Karthik**
+- Clean India by **Karthik** from **Dexeldesigns**
 
 	[Design Documents](https://github.com/indiarising/hackathon/pull/9)
 
