@@ -1,5 +1,34 @@
-Submissions
-============
+The Problem Statement
+======================
+
+This has been detailed [here](https://github.com/indiarising/hackathon/blob/master/README.md). In summary, we were looking for ideas on an application that would encourage spotfixing by enabling planning, execution and reporting of a fix with technology.
+
+
+Overview
+==========
+
+We are featuring a design submission from **Jinita Shah** of **Carbon12** which covers the use cases fairly well. We received excellent submissions that captured the feature requirements and came up with functional applications that have been shortlisted below under **Top Submissions.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/1.png"> 
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/3.png">
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/4.png">
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/5.png">
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/6.png">
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/7.png">
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/8.png">
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/9.png">
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/10.png">
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/11.png">
+<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/12.png">
+
+</p>
+
+Top Submissions
+====================
+
+
 
 - IndiaRising by **Pranav Prakash**
 
@@ -82,7 +111,10 @@ Submissions
 
 
 - Clean India by **Jinita Shah** from **Carbon12**
+
 	[Design and UX](https://drive.google.com/file/d/0B11oWo0dZCicRGZzUlFtTldaeG9KUm80ZF91anJKdnhOS0ZJ/view?usp=sharing)
+
+	
 
 
 - The Ugly Indian Project by **Prashant Abhishek** from **Jaaga**
