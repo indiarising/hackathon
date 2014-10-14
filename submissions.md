@@ -1,7 +1,7 @@
 The Problem Statement
 ======================
 
-This has been detailed [here](https://github.com/indiarising/hackathon/blob/master/README.md). In summary, we were looking for ideas on an application that would encourage spotfixing by enabling planning, execution and reporting of a fix with technology.
+This has been detailed [here](https://github.com/indiarising/hackathon/blob/master/README.md). In summary, we were looking for ideas on a digital application that would encourage spotfixing by enabling planning, execution and reporting of a fix while letting people volunteer their time for spotfixes.
 
 
 Overview
