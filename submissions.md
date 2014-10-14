@@ -20,7 +20,6 @@ We are featuring a design submission from **Jinita Shah** of **Carbon12** which 
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/8.png">
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/9.png">
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/10.png">
-<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/11.png">
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/12.png">
 
 </p>
