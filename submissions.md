@@ -81,6 +81,10 @@ Submissions
 
 
 
+- Clean India by **Jinita Shah** from **Carbon12**
+	[Design and UX](https://drive.google.com/file/d/0B11oWo0dZCicRGZzUlFtTldaeG9KUm80ZF91anJKdnhOS0ZJ/view?usp=sharing)
+
+
 - The Ugly Indian Project by **Prashant Abhishek** from **Jaaga**
 
 	[Android flow can be seen here](https://popapp.in/projects/542c3ae76b208e6469aed461/preview)
