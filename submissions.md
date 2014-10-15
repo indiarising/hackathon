@@ -14,7 +14,7 @@ We are featuring a design submission from **Jinita Shah**, **Akshataa Vishwanath
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/1.png"> 
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/3.png">
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/4.png">
-<img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/5.png">
+<img src="https://raw.githubusercontenkat.com/indiarising/hackathon/master/carbon12/5.png">
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/6.png">
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/7.png">
 <img src="https://raw.githubusercontent.com/indiarising/hackathon/master/carbon12/8.png">
@@ -133,7 +133,7 @@ Top Submissions
 
 
 
-- Clean Place by **Karthikeyan S** from **lostinkaos.com**
+- Clean Place by **Deepu Thomas Phillip** from **Brand Sigma** and **Karthikeyan S** from **lostinkaos.com**
 
 	[Live Link](http://128.199.207.159/)
 	
