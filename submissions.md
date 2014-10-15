@@ -7,7 +7,7 @@ This has been detailed [here](https://github.com/indiarising/hackathon/blob/mast
 Overview
 ==========
 
-We are featuring a design submission from **Jinita Shah** of **Carbon12** which covers the use cases fairly well. We received excellent submissions that captured the feature requirements and came up with functional applications that have been shortlisted below under **Top Submissions.**
+We are featuring a design submission from **Jinita Shah**, **Akshataa Vishwanath**, **Dipto De** and **Nilanjan Ghosh** of **Carbon12** which covers the use cases fairly well. We received excellent submissions that captured the feature requirements and came up with functional applications that have been shortlisted below under **Top Submissions.**
 
 <p align="center">
 
@@ -109,7 +109,7 @@ Top Submissions
 
 
 
-- Clean India by **Jinita Shah** from **Carbon12**
+- Clean India by **Jinita Shah**, **Akshataa Vishwanath**, **Dipto De** and **Nilanjan Ghosh** of **Carbon12**
 
 	[Design and UX](https://drive.google.com/file/d/0B11oWo0dZCicRGZzUlFtTldaeG9KUm80ZF91anJKdnhOS0ZJ/view?usp=sharing)
 
